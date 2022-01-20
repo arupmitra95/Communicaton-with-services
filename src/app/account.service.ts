@@ -12,6 +12,10 @@ export class AccountService {
     {
       name: "Test Account",
       status: "Invalid"
+    },
+    {
+      name: "Hidden",
+      status: "Unknown"
     }
   ];
 
